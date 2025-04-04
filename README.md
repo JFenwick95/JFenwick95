@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JFenwick95
 - 👀 I’m interested in pursuing employment in software development.
-- 🌱 Recent graduate of Western Governor's University with a B.S. in Computer Science.
+- 🌱 Graduate of Western Governor's University with a B.S. in Computer Science.
 
 
 <!---
